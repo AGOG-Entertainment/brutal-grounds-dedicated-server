@@ -3,7 +3,7 @@
 ## Platforms
 Brutal Grounds Dedicated Server is supported for both Linux and Windows.
 
-## Quickstart- Where to get it
+## Quickstart - Where to get it
 In order to download the Brutal Grounds Dedicated Server, you need to have access to Brutal Grounds on Steam.
 
 ### Steam Library
@@ -33,7 +33,7 @@ In order to download the Brutal Grounds Dedicated Server, you need to have acces
 When you're behind a NAT you might neet to use `-ExternalGamePort=`. And you need to use `-QueryPort=-1`. This tells the Steam Master Server what your external port is so that clients know how to connect from the Server Browser.
 
 ## Configuration
-As of right now the configuration is very limited, but here's a list of available launch paramaters.
+As of right now the configuration is very limited, but here's a list of available launch paramaters:
 - `-log` (Recommended) Outputs the server to the log.
 - `-nullrhi` (Recommended) Tells the server to not try and allocate memory on the GPU.
 - `-AdminId=` (Recommended) Sets the Admin ID(s) for the server which allows you to control the server when connected to it in-game. This method is very temporary and we plan on making it more robust in the future.
@@ -54,7 +54,7 @@ Linux example: `./BrutalGroundsServer.sh Arena -log -nullrhi`
 Windows example: `./BrutalGroundsServer.exe Arena -log -nullrhi`
 
 ### Map Names
-**NOTE:** The naming convention is not standardized and is subject to change for consistency.
+**NOTE:** The naming convention is not standardized and is subject to change for consistency:
 - Arena
 - ArenaCTF
 - ArenaRelic
