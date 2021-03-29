@@ -93,3 +93,6 @@ In no particular order, here are some planned features:
 - Chat logs
 - Welcome message
 - Config files
+
+## News & Support
+If you're running a Game Server, it's recommended you let one of the developers know on the [Official Discord](https://discord.com/invite/mamsmjx) and we can tag you. This will help us keep you up to date on any changes as we develop the game and server.
