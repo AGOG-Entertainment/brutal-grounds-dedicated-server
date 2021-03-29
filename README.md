@@ -1,5 +1,8 @@
 # Brutal Grounds Dedicated Server
 
+## About Brutal Grounds
+[Brutal Grounds](https://www.brutalgrounds.com) is a competitive top-down multiplayer shooter.
+
 ## Platforms
 Brutal Grounds Dedicated Server is supported for both Linux and Windows.
 
