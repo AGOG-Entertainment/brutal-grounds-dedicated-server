@@ -20,8 +20,8 @@ In order to download the Brutal Grounds Dedicated Server, you need to have acces
 
 ## Ports
 ### Default Ports
-`7777`(UDP) - Game Traffic
-`27015`(UDP) - Server Browser Query
+- `7777`(UDP) Game Traffic
+- `27015`(UDP) Server Browser Query
 
 ### Launch Params
 - `-Port=` Sets the Game Traffic port
