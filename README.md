@@ -19,7 +19,9 @@ In order to download the Brutal Grounds Dedicated Server, you need to have acces
 ### Steamcmd (Advanced)
 [Steamcmd is a command line interface](https://developer.valvesoftware.com/wiki/SteamCMD), primarily used for managing dedicated servers on Steam.
 1. Follow Valve's official instructions on how to install Steamcmd
-2. `steamcmd +login +force_install_dir ../brutal_grounds_ds +app_update 1123110 +quit`
+2. Run the command:
+- Windows: `./steamcmd.exe +login +force_install_dir ../brutal_grounds_ds +app_update 1123110 +quit`
+- Linux: `./steamcmd.sh +login +force_install_dir ../brutal_grounds_ds +app_update 1123110 +quit`
 
 ## Ports
 ### Default Ports
