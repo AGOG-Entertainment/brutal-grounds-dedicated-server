@@ -83,7 +83,7 @@ Windows example: `./BrutalGroundsServer.exe Arena -log -nullrhi`
 
 ## Controlling Server
 ### Command Centre - Controlling from In-Game
-You must set the `-AdminIds=` launch paramater. Launch the game from a Steam account matching an ID specified in `-AdminIds`. Connect to the server and press `esc` to access the escape menu, go to `Command Centre`.
+You must set the `-AdminId=` launch paramater. Launch the game from a Steam account matching an ID specified in `-AdminId`. Connect to the server and press `esc` to access the escape menu, go to `Command Centre`.
 
 ### RCON
 There is no RCON available yet but it's a planned feature.
