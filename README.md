@@ -49,6 +49,7 @@ As of right now the configuration is very limited, but here's a list of availabl
 - `-Port=` Sets the game traffic port.
 - `-QueryPort=` Sets the query port.
 - `-ExternalGamePort=` Sets the external game port. If setting this, you should also use `-QueryPort=-1`.
+- `-Password=` Sets a password for the server, case sensitive.
 - You also have all existing [Unreal Engine 4 launch paramaters](https://docs.unrealengine.com/en-US/ProductionPipelines/CommandLineArguments/index.html) available to Shipping builds.
 
 ### Setting starting map and game mode
